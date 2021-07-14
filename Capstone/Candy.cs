@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Capstone
+{
+    class Candy : Item
+    {
+        //////////////////////////////////////////////////////CTOR/////////////////////////////////////////////////////////////////////////////
+
+        public Candy(string name, decimal price, string slotNumber) :base(name, price, slotNumber)
+        {
+
+        }
+        //////////////////////////////////////////////////////METHODS/////////////////////////////////////////////////////////////////////////////
+
+        public override string MakeSound()
+        {
+            return ("Munch Munch, Yum!");
+        }
+    }
+}

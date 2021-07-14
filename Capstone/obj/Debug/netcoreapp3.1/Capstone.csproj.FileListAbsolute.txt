@@ -1,0 +1,14 @@
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\Capstone.exe
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\Capstone.deps.json
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\Capstone.runtimeconfig.json
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\Capstone.runtimeconfig.dev.json
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\Capstone.dll
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\Capstone.pdb
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.csprojAssemblyReference.cache
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.AssemblyInfo.cs
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.dll
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.pdb
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\obj\Debug\netcoreapp3.1\Capstone.genruntimeconfig.cache
+C:\Users\Student\workspace\module1-capstone-c-team-0\Capstone\dotnet\Capstone\bin\Debug\netcoreapp3.1\vending.txt

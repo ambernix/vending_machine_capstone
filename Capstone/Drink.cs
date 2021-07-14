@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Capstone
+{
+    class Drink : Item
+    {
+        //////////////////////////////////////////////////////CTOR/////////////////////////////////////////////////////////////////////////////
+        public Drink(string name, decimal price, string slotNumber) : base(name, price, slotNumber)
+        {
+
+        }
+        //////////////////////////////////////////////////////METHODS/////////////////////////////////////////////////////////////////////////////
+        public override string MakeSound()
+        {
+            return ("Glug Glug, Yum!");
+        }
+    }
+}

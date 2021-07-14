@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Capstone
+{
+    class Gum : Item
+    {
+        //////////////////////////////////////////////////////CTOR/////////////////////////////////////////////////////////////////////////////
+        public Gum(string name, decimal price, string slotNumber) : base(name, price, slotNumber)
+        {
+
+        }
+        //////////////////////////////////////////////////////METHODS/////////////////////////////////////////////////////////////////////////////
+        public override string MakeSound()
+        {
+            return ("Chew Chew, Yum!");
+        }
+    }
+}
